@@ -17,7 +17,7 @@ from . import __version__
 
 
 class ChatBot:
-    __default_ip = '127.0.0.1'
+    __default_ip = '0.0.0.0'
     __default_port = 8018
     __build_id = 'R0N5_tXGtfW6vPX2VKOoy'
 
